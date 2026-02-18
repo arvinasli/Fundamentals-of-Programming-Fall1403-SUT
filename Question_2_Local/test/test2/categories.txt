@@ -1,3 +1,0 @@
-technology:ai:6.0:robotics:5.5:machinelearning:5.0:cloudcomputing:4.5:bigdata:5.0:automation:4.5:cybersecurity:5.0:blockchain:4.0:virtualreality:4.5
-economy:market:5.5:inflation:5.0:taxes:4.5:stocks:4.0:employment:5.0:trade:5.5:currency:4.0:banking:4.5:interest:5.0:globaltrade:5.0
-healthcare:medicine:5.0:hospital:4.5:doctor:5.0:patients:4.0:wellness:4.5:nutrition:5.0:surgery:4.0:publichealth:5.0:mentalhealth:5.5
